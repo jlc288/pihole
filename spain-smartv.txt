@@ -33,7 +33,6 @@ xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 zpu.samsungelectronics.com
 
-
 #timeservice
 #time.samsungcloudsolution.com
 
@@ -46,7 +45,6 @@ sso.internetat.tv
 
 #microsoft
 secureclock2.playready.microsoft.com
-go.microsoft.com
 
 #tdt spain
 acr-eu-prd.internetat.tv
@@ -56,5 +54,10 @@ hbbtv.rtve.es
 marker.konograma.com
 scheduler.hbbtv.smartclip.net
 stats.hbbtv.smartclip.net
+abra4prodtvgalicia.abertistelecom.com
+cdnwc.cellnextelecom.net
+
+#other
+piwik.openhost.es
 
 
